@@ -1,0 +1,260 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/fumin/Documents/FPGA_proj/remote/simulation/modelsim
+vclk_38k
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1594437484
+!i10b 1
+!s100 0mgme7^^G919g3eZCdYTz2
+I`Qc:hSY?YE1_CEglBTlAG0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 clk_38k_sv_unit
+S1
+R0
+Z5 w1594436999
+Z6 8C:/Users/fumin/Documents/FPGA_proj/remote/clk_38k.sv
+Z7 FC:/Users/fumin/Documents/FPGA_proj/remote/clk_38k.sv
+L0 4
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1594437484.000000
+Z10 !s107 C:/Users/fumin/Documents/FPGA_proj/remote/clk_38k.sv|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/fumin/Documents/FPGA_proj/remote|C:/Users/fumin/Documents/FPGA_proj/remote/clk_38k.sv|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work +incdir+C:/Users/fumin/Documents/FPGA_proj/remote
+Z14 tCvgOpt 0
+vclk_testbench
+R1
+Z15 !s110 1594437485
+!i10b 1
+!s100 LLD5ej8knR2O]n4UB_2XG1
+IQ9K9IOGEPN^B4>@6dQ:@]3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 46
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vcommand_testbench
+R1
+R15
+!i10b 1
+!s100 [D39zY9>2l3A[9BL20NWS2
+INS7AbP?c^hR2dg`o5j=dG3
+R3
+Z16 !s105 samsung_command_sv_unit
+S1
+R0
+Z17 w1594431383
+Z18 8C:/Users/fumin/Documents/FPGA_proj/remote/samsung_command.sv
+Z19 FC:/Users/fumin/Documents/FPGA_proj/remote/samsung_command.sv
+L0 62
+R8
+r1
+!s85 0
+31
+Z20 !s108 1594437485.000000
+Z21 !s107 C:/Users/fumin/Documents/FPGA_proj/remote/samsung_command.sv|
+Z22 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/fumin/Documents/FPGA_proj/remote|C:/Users/fumin/Documents/FPGA_proj/remote/samsung_command.sv|
+!i113 1
+R12
+R13
+R14
+vir_drive
+R1
+R15
+!i10b 1
+!s100 OiTklMNI5Ij1MM:c_E6^m2
+IQOC1ga?>`_m=e1Sl;KOZV1
+R3
+Z23 !s105 ir_drive_sv_unit
+S1
+R0
+Z24 w1594413340
+Z25 8C:/Users/fumin/Documents/FPGA_proj/remote/ir_drive.sv
+Z26 FC:/Users/fumin/Documents/FPGA_proj/remote/ir_drive.sv
+L0 3
+R8
+r1
+!s85 0
+31
+R20
+Z27 !s107 C:/Users/fumin/Documents/FPGA_proj/remote/ir_drive.sv|
+Z28 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/fumin/Documents/FPGA_proj/remote|C:/Users/fumin/Documents/FPGA_proj/remote/ir_drive.sv|
+!i113 1
+R12
+R13
+R14
+vir_test
+R1
+R15
+!i10b 1
+!s100 37n^bjfDJHBF?miDbAQ253
+I7kWf]LO]0kcmedLGC=lcC0
+R3
+R23
+S1
+R0
+R24
+R25
+R26
+L0 14
+R8
+r1
+!s85 0
+31
+R20
+R27
+R28
+!i113 1
+R12
+R13
+R14
+vprot_test
+R1
+R15
+!i10b 1
+!s100 @0Z:;_@HJPmQNa2C`161d0
+I6`gm55eP5_]zX^ldFUgcn2
+R3
+Z29 !s105 samsung_protocol_sv_unit
+S1
+R0
+Z30 w1594427457
+Z31 8C:/Users/fumin/Documents/FPGA_proj/remote/samsung_protocol.sv
+Z32 FC:/Users/fumin/Documents/FPGA_proj/remote/samsung_protocol.sv
+L0 163
+R8
+r1
+!s85 0
+31
+R20
+Z33 !s107 C:/Users/fumin/Documents/FPGA_proj/remote/samsung_protocol.sv|
+Z34 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/fumin/Documents/FPGA_proj/remote|C:/Users/fumin/Documents/FPGA_proj/remote/samsung_protocol.sv|
+!i113 1
+R12
+R13
+R14
+vremote_test
+R1
+R2
+!i10b 1
+!s100 i;]W9nGM9amE^Rb;fibcA0
+IU9[__=LzhQzjN3O_l?ezI0
+R3
+Z35 !s105 remote_top_sv_unit
+S1
+R0
+Z36 w1594433150
+Z37 8C:/Users/fumin/Documents/FPGA_proj/remote/remote_top.sv
+Z38 FC:/Users/fumin/Documents/FPGA_proj/remote/remote_top.sv
+L0 34
+R8
+r1
+!s85 0
+31
+R9
+Z39 !s107 C:/Users/fumin/Documents/FPGA_proj/remote/remote_top.sv|
+Z40 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/fumin/Documents/FPGA_proj/remote|C:/Users/fumin/Documents/FPGA_proj/remote/remote_top.sv|
+!i113 1
+R12
+R13
+R14
+vremote_top
+R1
+R2
+!i10b 1
+!s100 E]6NPPdS4DTA8JOICRKf43
+I_5@ML?[S^K4KBnT:GffFR0
+R3
+R35
+S1
+R0
+R36
+R37
+R38
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+R39
+R40
+!i113 1
+R12
+R13
+R14
+vsamsung_command
+R1
+R15
+!i10b 1
+!s100 XoIIFE0eRh@KC9SLbBTJE0
+I^Z^LmPJL`KYK_cC67]__62
+R3
+R16
+S1
+R0
+R17
+R18
+R19
+L0 3
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R12
+R13
+R14
+vsamsung_protocol
+R1
+R15
+!i10b 1
+!s100 cm3Ai]i>kl0=fZX87@nS11
+IS5^lDY8N?_]Ma]R0Zele?3
+R3
+R29
+S1
+R0
+R30
+R31
+R32
+L0 3
+R8
+r1
+!s85 0
+31
+R20
+R33
+R34
+!i113 1
+R12
+R13
+R14

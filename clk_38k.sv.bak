@@ -1,0 +1,22 @@
+module clk_38k (	input logic clk_50,
+						output logic clk_38);
+						
+	logic [10:0] counter;
+	
+	
+	
+	always_ff @(posedge clk_50)
+	begin
+		if (counter == 11'd1316)
+		begin
+			clk_38 <= ~clk_38;
+			counter <= 0;
+		end
+		else
+		begin
+			counter <= counter + 1;
+		end
+	end
+						
+endmodule
+						

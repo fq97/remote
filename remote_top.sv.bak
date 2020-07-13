@@ -1,0 +1,10 @@
+module remote_top (	input logic CLOCK_50,
+							input logic [3:0] KEY,
+							output logic IR_LED);
+							
+	//testing
+	always_ff @(posedge CLOCK_50)
+	begin
+		IR_LED <= ~IR_LED;
+	end
+endmodule
